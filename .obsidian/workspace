@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "0e300afd5cf75632",
+    "type": "split",
+    "children": [
+      {
+        "id": "377b50c3462caaaa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Design Pattern/001 Strategy Design Pattern.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "cfb9d0b1cd60bb8f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Design Pattern/001 Strategy Design Pattern.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "431120bde133f31a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c062687c98d6cf91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07eab640b10e2cbf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "24b59bef6d9da058",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f1b2bba5c21d75a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "cd9d8be6b514de6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "da6078f45664fa6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75c480af21c8529b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Design Pattern/001 Strategy Design Pattern.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e6b0e85e0db18d84",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Design Pattern/001 Strategy Design Pattern.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1ee88c74d86ac7dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "06c66901618c7678",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Design Pattern/001 Strategy Design Pattern.md"
+              }
+            }
+          },
+          {
+            "id": "c3fd64e30f2b4e5e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cfb9d0b1cd60bb8f",
+  "lastOpenFiles": [
+    "Design Pattern/000 Design Patterns.md",
+    "Untitled.md",
+    "README.md",
+    "Design Pattern/001 Strategy Design Pattern.md",
+    "Design Pattern/002 Observer Design Pattern.md",
+    "How To.md",
+    "Design Pattern.md",
+    "Cyber Security.md",
+    "Learn from other's code.md",
+    "Minimap SetBlipTexture.md"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "spellcheckDictionary": [
+    "CurseForge",
+    "Addon",
+    "Minimap",
+    "SetBlipTexture",
+    "ClassB",
+    "ClassA",
+    "ClassX",
+    "ClassY",
+    "ClassY",
+    "FarmTools",
+    "(Class",
+    " Class",
+    "TODO",
+    "change.\n\nWe ",
+    "DisplayElement"
+  ],
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true,
+  "spellcheck": true
+}
