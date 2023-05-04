@@ -1,29 +1,3 @@
-Table of Content
-```toc
-```
----
-## Definition
-
----
-## Example
-
----
-
-## Demo
-
-Structure
-
--   We introduce a problem (a task)
--   We try to fix it on our own with a brute force approach
--   We state the weaknesses of our solution
--   We introduce the design pattern
--   Fix the problem again with the newly introduced design pattern
--   We talk about all the benefits of the pattern along with the Design Principles that where introduces into it.
-
-Definition explained with real world example.
-
-We got a new task, to make a Weather System.
-
 ### Introduction
 
 Hello everyone and welcome to this tutorial on the Observer Design Pattern. In this video we will learn the Observer Pattern with examples and explanations provided mainly by the Head First Design Pattern Book. We will start with a TL;DR for those for you that are in a rush and just want the big picture. So let's get started.
@@ -61,4 +35,9 @@ Moving on to the displays, we'll start with the `CurrentConditionDisplay`, this 
 Now that we have everything ready, let's test our code. We start by making a `WeatherData` object which will communicate with the Weather Station. From there, we can start making the displays, which will automatically register with the given `weatherStation`. Then we give it some random measurements to test it. Let's try that again and run it and see what it gives us. We didnt went trough the specifics of the displays but we can see that it's printing 6 things, and thats because we gave it 2 diferent values and it prints all 3 displays every time theres a change.
 
 ## Benefits
+
 Lets talk a little about the benefits we got from the Observer Design Pattern. Without noticing, we started using another Design Principle that is innate to the Observer Pattern. (*) Stive for loosely coupled designs between objects that interact. The only thing the Subject should know about the observer is that (*)it implements the Observer interface and with it, the update() method. Also, we can add new observers at any time because the only thing the subject depends on is in the observers interface so it gives us a lot of freedom on what to do with either the subject or the observers. Another example is that we can reuse the subject and observer, for example by adding another interface without affecting its functionality since they are not tightly coupled.
+
+
+
+

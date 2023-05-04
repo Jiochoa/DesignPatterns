@@ -7,8 +7,8 @@ Theres a total of 23 patterns, the book only covers 12 so I'll have to get the o
 I might need something to set the book down. I have the space so I just need a stand. Again, one of the things that I will focus is to keep my hands in the keybaord at all time. Its supposed to be more productive but I'm still not sure about it.
 # Index
 1. [[001 Class Diagram Explenation]]
-2. [[002 Strategy Design Pattern]]
-3. [[003 Observer Design Pattern]]
+2. [[Strategy Design Pattern]]
+3. [[Explenation]]
 4. [[003 Decorator Design Pattern]]
 5. [[004 Factory Design Pattern]]
 6. [[005 Singleton Design Pattern]]

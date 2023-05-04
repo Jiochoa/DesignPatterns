@@ -14,7 +14,9 @@
     " Class",
     "TODO",
     "change.\n\nWe ",
-    "DisplayElement"
+    "DisplayElement",
+    "Superclass",
+    "superclass"
   ],
   "promptDelete": false,
   "defaultViewMode": "preview",

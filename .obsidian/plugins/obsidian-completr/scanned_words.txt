@@ -641,6 +641,8 @@ Task
 Temperature
 Type
 Testing
+Try
+There
 objective
 of
 only
@@ -944,6 +946,7 @@ ojOYPP
 otgvu
 observer
 observers
+out
 this
 to
 tags
@@ -1273,6 +1276,7 @@ thats
 theres
 tightly
 targetPoint
+treated
 page
 practice
 patterns
@@ -1950,6 +1954,8 @@ inside
 initiate
 iterate
 innate
+instance
+ingredients
 explain
 else
 explanations
@@ -2333,6 +2339,10 @@ endFill
 endSize
 exitPerimeter
 entryPerimeter
+expansion
+extras
+eight
+explosion
 Design
 Diagram
 Dependency
@@ -2630,6 +2640,7 @@ DR
 Display
 Displays
 DesignPatterns
+Decorator
 Pattern
 Parent
 Predict
@@ -2963,6 +2974,7 @@ PoFESLt
 Py
 Principles
 Pressure
+Point
 and
 as
 add
@@ -3327,6 +3339,7 @@ actual
 active
 affecting
 actor
+abstract
 do
 down
 diagram
@@ -3718,6 +3731,9 @@ diferent
 designs
 depends
 dasharray
+drinks
+drink
+description
 something
 situation
 so
@@ -4123,6 +4139,14 @@ send
 subject
 specifics
 sourcePoint
+shop
+shared
+seem
+subclasses
+soy
+scenario
+setters
+superclass
 with
 which
 would
@@ -4427,6 +4451,9 @@ weather
 wants
 worried
 went
+were
+whipped
+whip
 Maybe
 My
 Make
@@ -5130,6 +5157,8 @@ finished
 freedom
 functionality
 ffffff
+fast
+four
 be
 book
 but
@@ -5471,6 +5500,10 @@ brute
 benefits
 boss
 begin
+business
+bad
+both
+beverage
 useful
 using
 unidirectional
@@ -6805,6 +6838,13 @@ constructor
 copy
 communicate
 coupled
+carelessly
+considering
+coded
+cream
+clear
+cost
+called
 ll
 link
 line
@@ -7136,6 +7176,7 @@ let
 losing
 looks
 loosely
+less
 have
 hands
 https
@@ -7459,6 +7500,7 @@ hidden
 hold
 high
 humidity
+had
 get
 generalization
 grass
@@ -7757,6 +7799,8 @@ gYNGjVrtcl
 got
 gives
 gave
+growing
+getters
 Notes
 Notable
 No
@@ -8462,6 +8506,10 @@ measurmentsChanges
 methods
 measurements
 mxPoint
+menu
+made
+milk
+mocha
 need
 not
 name
@@ -8777,6 +8825,7 @@ notified
 necessary
 notify
 noticing
+no
 just
 jump
 ja
@@ -9429,6 +9478,7 @@ AHXsOHDlx
 And
 Add
 Another
+Animal
 keep
 keybaord
 kind
@@ -10032,6 +10082,7 @@ ItPPnrpH
 IgusBAAA
 Introduction
 Inside
+Introduce
 Content
 Composition
 Child
@@ -10337,6 +10388,8 @@ CRvl
 ClWN
 CpXGctztrbW
 CurrentConditionDisplay
+Code
+Coffee
 relationships
 represents
 represented
@@ -11853,6 +11906,7 @@ BUMYQzYxe
 Bxffs
 BtwYL
 Benefits
+Beverage
 Generalization
 GitHub
 Going
@@ -12742,6 +12796,10 @@ Stock
 Station
 StatisticsDisplay
 Stive
+Scenario
+State
+Superclass
+Soy
 very
 vary
 video
@@ -13045,6 +13103,7 @@ vbOZ
 vHFp
 visible
 values
+variables
 you
 your
 yet
@@ -14591,6 +14650,7 @@ QMyHmJUytXCZ
 QPZSOp
 QheyC
 QUVDQQOgYmFnNsFixZsWaDg
+Quick
 zoom
 zU
 zc
