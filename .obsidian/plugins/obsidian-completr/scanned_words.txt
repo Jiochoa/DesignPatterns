@@ -950,6 +950,7 @@ observer
 observers
 out
 original
+outermost
 this
 to
 tags
@@ -1282,6 +1283,10 @@ targetPoint
 treated
 true
 till
+tricky
+touching
+typically
+tool
 page
 practice
 patterns
@@ -1619,6 +1624,11 @@ prices
 price
 print
 prepared
+provide
+previous
+pts
+people
+pause
 is
 it
 in
@@ -1968,6 +1978,7 @@ ingredients
 individual
 included
 including
+inherits
 explain
 else
 explanations
@@ -2356,6 +2367,11 @@ extras
 eight
 explosion
 expresso
+extending
+extra
+extend
+espresso
+existing
 Design
 Diagram
 Dependency
@@ -2654,6 +2670,9 @@ Display
 Displays
 DesignPatterns
 Decorator
+Dark
+DarkRoast
+Decorators
 Pattern
 Parent
 Predict
@@ -3356,6 +3375,11 @@ abstract
 accomplished
 after
 accept
+around
+addition
+attaches
+additional
+alternative
 do
 down
 diagram
@@ -3752,6 +3776,12 @@ drink
 description
 diference
 double
+done
+dynamically
+decorates
+decorator
+decorate
+decorated
 something
 situation
 so
@@ -4166,6 +4196,10 @@ scenario
 setters
 superclass
 sizes
+subclassing
+screen
+snipping
+slide
 with
 which
 would
@@ -4474,6 +4508,10 @@ were
 whipped
 whip
 wrapper
+whole
+wrapping
+wraps
+wrapped
 Maybe
 My
 Make
@@ -4818,6 +4856,9 @@ MgYTyCSyBQqjeXowuZwT
 MMGXB
 Market
 Moving
+Mocha
+Milk
+Meaning
 for
 from
 focus
@@ -5527,6 +5568,8 @@ bad
 both
 beverage
 biggest
+bit
+button
 useful
 using
 unidirectional
@@ -6191,6 +6234,7 @@ HG
 HEQ
 HXPfY
 Humidity
+HAS
 Functionality
 Formal
 For
@@ -6477,6 +6521,7 @@ FlVb
 Fix
 ForecastDisplay
 From
+Format
 covers
 com
 composition
@@ -6874,6 +6919,14 @@ calculated
 checking
 condiment
 customer
+coffee
+calling
+calls
+concept
+case
+computation
+corner
+commented
 ll
 link
 line
@@ -7208,6 +7261,7 @@ loosely
 less
 leave
 last
+lastly
 have
 hands
 https
@@ -7532,6 +7586,8 @@ hold
 high
 humidity
 had
+however
+holds
 get
 generalization
 grass
@@ -10422,6 +10478,9 @@ CpXGctztrbW
 CurrentConditionDisplay
 Code
 Coffee
+ConcreteComponent
+Component
+ConcreteDecorator
 relationships
 represents
 represented
@@ -10728,6 +10787,9 @@ run
 reuse
 respective
 return
+responsibilities
+runtime
+remain
 Realization
 RL
 Rules
@@ -11032,6 +11094,7 @@ RwnncWERIR
 RY
 RIkSjJXsnlSGKVKky
 RVXXXPdDeMmTJpyy
+Roast
 Unidirectional
 UML
 Using
@@ -13142,6 +13205,7 @@ visible
 values
 variables
 vanilla
+variable
 you
 your
 yet
