@@ -4,8 +4,10 @@
 ## Format
 - Demo size will be 16 pts, from the corner of the screen to touching the start button of the snipping tool. 
 - every slide will end with a commented page for if people need to pause it. 
-- 
 
+- Thumbnail 
+- Background music
+- 
 
 
 

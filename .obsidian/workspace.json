@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "ef9d7b8aad3cf1fd",
+        "id": "faa35c56be1043c8",
         "type": "tabs",
         "children": [
           {
-            "id": "1b9f5b2510d08f0f",
+            "id": "6cab98b1bc169478",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Decorator Pattern/Script.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0362ddd63ff492fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,20 +193,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1b9f5b2510d08f0f",
+  "active": "0362ddd63ff492fa",
   "lastOpenFiles": [
-    "01 Observer Pattern/Script.md",
+    "00 Strategy Pattern/Strategy Design Pattern.md",
     "02 Decorator Pattern/Script.md",
     "Diagrams/Duck Diagram 1.svg",
     "000 Design Patterns.md",
+    "01 Observer Pattern/Script.md",
+    "01 Observer Pattern/Explenation.md",
     "001 Class Diagram Explenation.md",
     "README.md",
     "01 Observer Pattern/Untitled Diagram.svg",
-    "01 Observer Pattern/Explenation.md",
     "Untitled Diagram.svg",
     "2023-05-02.md",
     "02 Decorator Pattern",
-    "00 Strategy Pattern/Strategy Design Pattern.md",
     "Observer Pattern/Untitled",
     "01 Observer Pattern",
     "00 Strategy Pattern",

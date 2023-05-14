@@ -45,6 +45,7 @@ Program to an interface, not an implementation.
 ```Java
 Dog d = new Dog();
 d.bark;
+// t
 ```
 This is wrong because it forces us to code to a concrete implementation which is not flexible.
 
