@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Strategy Pattern/Script.md",
+                "file": "01 Observer Pattern/Script.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Strategy Pattern/Script.md",
+                "file": "01 Observer Pattern/Script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Strategy Pattern/Script.md",
+                "file": "01 Observer Pattern/Script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Strategy Pattern/Script.md"
+                "file": "01 Observer Pattern/Script.md"
               }
             }
           },
@@ -195,13 +195,13 @@
   },
   "active": "0362ddd63ff492fa",
   "lastOpenFiles": [
-    "02 Decorator Pattern/Script.md",
-    "00 Strategy Pattern/Script.md",
     "00 Strategy Pattern/Design Pattern.md",
-    "01 Observer Pattern/Explenation.md",
-    "01 Observer Pattern/Script.md",
     "Diagrams/Duck Diagram 1.svg",
+    "01 Observer Pattern/Explenation.md",
     "000 Design Patterns.md",
+    "00 Strategy Pattern/Script.md",
+    "02 Decorator Pattern/Script.md",
+    "01 Observer Pattern/Script.md",
     "001 Class Diagram Explenation.md",
     "README.md",
     "01 Observer Pattern/Untitled Diagram.svg",
