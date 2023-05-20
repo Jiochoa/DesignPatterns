@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Decorator Pattern/Script.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0362ddd63ff492fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "01 Observer Pattern/Script.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,15 +180,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0362ddd63ff492fa",
+  "active": "6cab98b1bc169478",
   "lastOpenFiles": [
+    "02 Decorator Pattern/Script.md",
+    "00 Strategy Pattern/Script.md",
     "00 Strategy Pattern/Design Pattern.md",
+    "01 Observer Pattern/Script.md",
     "Diagrams/Duck Diagram 1.svg",
     "01 Observer Pattern/Explenation.md",
     "000 Design Patterns.md",
-    "00 Strategy Pattern/Script.md",
-    "02 Decorator Pattern/Script.md",
-    "01 Observer Pattern/Script.md",
     "001 Class Diagram Explenation.md",
     "README.md",
     "01 Observer Pattern/Untitled Diagram.svg",

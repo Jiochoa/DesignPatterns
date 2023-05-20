@@ -1657,6 +1657,8 @@ performQuack
 procedure
 process
 possible
+purposes
+prepare
 is
 it
 in
@@ -2712,6 +2714,8 @@ Decorator
 Dark
 DarkRoast
 Decorators
+Defined
+DisplayElement
 Pattern
 Parent
 Predict
@@ -3431,6 +3435,9 @@ allow
 alive
 adjusting
 answer
+analyze
+although
+amount
 do
 down
 diagram
@@ -3835,6 +3842,8 @@ decorate
 decorated
 descriptions
 distances
+dissect
+didn
 something
 situation
 so
@@ -4277,6 +4286,10 @@ success
 shown
 specifically
 section
+station
+speed
+solving
+successful
 with
 which
 would
@@ -4593,6 +4606,9 @@ word
 while
 wings
 watching
+wind
+wouldn
+wrote
 Maybe
 My
 Make
@@ -7381,6 +7397,8 @@ lastly
 long
 locked
 language
+likely
+learned
 have
 hands
 https
@@ -7709,6 +7727,8 @@ however
 holds
 he
 hardware
+hardcoded
+handle
 get
 generalization
 grass
@@ -8010,6 +8030,7 @@ gave
 growing
 getters
 grouped
+goes
 Notes
 Notable
 No
@@ -8726,6 +8747,7 @@ mallard
 mDuck
 matter
 manage
+measurementsChanges
 need
 not
 name
@@ -9698,6 +9720,7 @@ Add
 Another
 Animal
 Aside
+Alight
 keep
 keybaord
 kind
@@ -10616,6 +10639,7 @@ Component
 ConcreteDecorator
 Context
 Concrete
+CurrentConditionsDisplay
 relationships
 represents
 represented
@@ -10932,6 +10956,7 @@ replace
 rDuck
 results
 remind
+registerd
 Realization
 RL
 Rules
@@ -12154,6 +12179,7 @@ Background
 Behaviors
 BubbleSort
 Behavior
+Before
 Generalization
 GitHub
 Going
