@@ -1659,6 +1659,7 @@ process
 possible
 purposes
 prepare
+presentation
 is
 it
 in
@@ -3052,6 +3053,8 @@ Pressure
 Point
 Pronciple
 PerfromQuack
+Part
+Progress
 and
 as
 add
@@ -4290,6 +4293,11 @@ station
 speed
 solving
 successful
+she
+strictly
+status
+speak
+say
 with
 which
 would
@@ -4609,6 +4617,7 @@ watching
 wind
 wouldn
 wrote
+week
 Maybe
 My
 Make
@@ -6642,6 +6651,7 @@ FlyWithWings
 FlyNoWay
 Flight
 Fly
+Forecast
 covers
 com
 composition
@@ -7399,6 +7409,7 @@ locked
 language
 likely
 learned
+louder
 have
 hands
 https
@@ -8031,6 +8042,9 @@ growing
 getters
 grouped
 goes
+getTemperature
+getHumidity
+getPressure
 Notes
 Notable
 No
@@ -8748,6 +8762,7 @@ mDuck
 matter
 manage
 measurementsChanges
+mic
 need
 not
 name
@@ -10640,6 +10655,8 @@ ConcreteDecorator
 Context
 Concrete
 CurrentConditionsDisplay
+Current
+Condition
 relationships
 represents
 represented
@@ -13081,6 +13098,7 @@ Solve
 Some
 Starting
 Squeak
+Stats
 very
 vary
 video
@@ -13387,6 +13405,7 @@ values
 variables
 vanilla
 variable
+voice
 you
 your
 yet
