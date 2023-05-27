@@ -16,3 +16,6 @@ Farm
 farmers
 FarmTools
 First
+weather
+Weather
+WeatherData
