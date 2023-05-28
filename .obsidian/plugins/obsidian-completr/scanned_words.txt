@@ -322,6 +322,8 @@ Oqqq
 Our
 Outro
 Oriented
+Observers
+OPTIONS
 The
 Theres
 Table
@@ -650,6 +652,7 @@ Think
 Thumbnail
 That
 Thank
+Text
 objective
 of
 only
@@ -964,6 +967,7 @@ overloaded
 others
 overwrite
 ourself
+ones
 this
 to
 tags
@@ -1305,6 +1309,7 @@ therefore
 than
 these
 though
+taking
 page
 practice
 patterns
@@ -1661,6 +1666,10 @@ possible
 purposes
 prepare
 presentation
+power
+potential
+plugin
+parsed
 is
 it
 in
@@ -2017,6 +2026,7 @@ inspect
 invoke
 instead
 identified
+interested
 explain
 else
 explanations
@@ -2415,6 +2425,7 @@ essentially
 entirely
 excellent
 ensure
+excalidraw
 Design
 Diagram
 Dependency
@@ -2719,6 +2730,7 @@ Decorators
 Defined
 DisplayElement
 Description
+Drawing
 Pattern
 Parent
 Predict
@@ -3443,6 +3455,8 @@ answer
 analyze
 although
 amount
+according
+array
 do
 down
 diagram
@@ -3849,6 +3863,8 @@ descriptions
 distances
 dissect
 didn
+dependee
+document
 something
 situation
 so
@@ -4300,6 +4316,8 @@ strictly
 status
 speak
 say
+setMeasurements
+shit
 with
 which
 would
@@ -4600,7 +4618,6 @@ white
 weaknesses
 world
 welcome
-weather
 wants
 worried
 went
@@ -4969,6 +4986,7 @@ Milk
 Meaning
 Mallard
 MergeSort
+MORE
 for
 from
 focus
@@ -5695,6 +5713,7 @@ becoming
 bunch
 bring
 building
+besides
 useful
 using
 unidirectional
@@ -6043,6 +6062,7 @@ updated
 update
 updating
 updates
+uPUTv
 Head
 However
 How
@@ -7071,6 +7091,9 @@ complicated
 currently
 constant
 comment
+common
+concreteSubject
+care
 ll
 link
 line
@@ -7742,6 +7765,8 @@ he
 hardware
 hardcoded
 handle
+hardcode
+hDB
 get
 generalization
 grass
@@ -8047,6 +8072,9 @@ goes
 getTemperature
 getHumidity
 getPressure
+giving
+getting
+getTemperture
 Notes
 Notable
 No
@@ -8765,6 +8793,7 @@ matter
 manage
 measurementsChanges
 mic
+measuremenrsChanges
 need
 not
 name
@@ -9082,6 +9111,9 @@ notify
 noticing
 no
 noises
+notifying
+notifyObservers
+normally
 just
 jump
 ja
@@ -9738,6 +9770,7 @@ Another
 Animal
 Aside
 Alight
+Array
 keep
 keybaord
 kind
@@ -10659,6 +10692,7 @@ Concrete
 CurrentConditionsDisplay
 Current
 Condition
+ConcreteSubject
 relationships
 represents
 represented
@@ -10976,6 +11010,9 @@ rDuck
 results
 remind
 registerd
+restrictions
+registerObserver
+removeObserver
 Realization
 RL
 Rules
@@ -11894,10 +11931,9 @@ WHgAAAAAAACEzcwAAAAAAAAASJIkSZIkSXIC
 WWMYpmwqUGkXdLouA
 WCl
 WIEB
-Weather
-WeatherData
 With
 Without
+WfCBa
 Bidirectional
 Behavioral
 Board
@@ -12786,6 +12822,9 @@ EqyAiRUMICfE
 EAjjlT
 Expresso
 Even
+EXCALIDRAW
+Elements
+EJux
 So
 Since
 Strategy
@@ -13101,6 +13140,7 @@ Some
 Starting
 Squeak
 Stats
+Switch
 very
 vary
 video
@@ -15604,6 +15644,7 @@ VQppIGQ
 VWvVqaut
 VVX
 VtRzpL
+VIEW
 You
 Yj
 Yi
